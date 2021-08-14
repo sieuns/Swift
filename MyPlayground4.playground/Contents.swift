@@ -84,3 +84,5 @@ let hasOddNumber = hasElements(in: numbers, match: oddNumberPredicate)
 
 print(hasEvenNumber)
 print(hasOddNumber)
+
+// test
